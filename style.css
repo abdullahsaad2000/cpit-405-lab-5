@@ -1,0 +1,15 @@
+
+.photo-container button{
+  border-radius: 30px;
+  padding: 15px;
+  border: none;
+  width: 100px;
+  height: 50px;
+  background-color: rgb(22, 168, 119);
+  color: aliceblue;
+  margin: 10px;
+  cursor: pointer;
+}
+.photo-container button:hover {
+  background-color: rgb(60, 202, 155);
+}
